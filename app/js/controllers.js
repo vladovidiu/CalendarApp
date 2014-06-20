@@ -1,3 +1,8 @@
-/**
- * Created by vladovidiu on 20/06/2014.
- */
+angular.module('calendarApp.controllers', [])
+    .controller('FrameController', ['$scope', function($scope){
+        $scope.today = new Date();
+        $scope.name = "Vlad Tutunea";
+    }])
+    .controller('DashboardController', ['$scope', function($scope) {
+
+    }]);

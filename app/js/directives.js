@@ -1,3 +1,1 @@
-/**
- * Created by vladovidiu on 20/06/2014.
- */
+angular.module('calendarApp.directives', []);

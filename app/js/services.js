@@ -1,3 +1,2 @@
-/**
- * Created by vladovidiu on 20/06/2014.
- */
+angular.module('calendarApp.services', [])
+    .constant('version', '0.0.1');
