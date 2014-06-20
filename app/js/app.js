@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('calendarAppApp', [
+angular.module('calendarApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
